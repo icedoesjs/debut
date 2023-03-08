@@ -2,14 +2,30 @@
   "sections": {
     "hero-1": {
       "type": "hero",
+      "custom_css": [
+
+      ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/71oJ1so1XzL.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
         "hero_size": "large",
-        "text_size": "large"
+        "text_size": "large",
+        "title": "Sunstoppy™",
+        "text": "<p>The innovative windshield cover designed to protect your car's interior<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "feature-row": {
       "type": "feature-row",
       "settings": {
+        "image": "shopify:\/\/shop_images\/8df1103f198b08ab2fbace53e305be3d_1_large_d74740bb-a628-46d6-9153-4f78562bbbf5.webp",
+        "layout": "left",
+        "title": "Stop heat from destroying your vechicle",
+        "text": "<p>Sunstoppy™ uses Heat-Shield technology blocking 99.5% of UV rays to protect your car against damage from high temperatures, which can destroy expensive interiors and pricey electronic systems in your vehicle.<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "feature-columns": {
@@ -18,16 +34,34 @@
         "feature-columns-0": {
           "type": "text_block",
           "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Seb3d4e85107d42e99ebfa359269d37327.webp",
+            "title": "Easy to store",
+            "text": "<p>Sunstoppy's design makes it simple and easy to store anywhere in your vehicle. All you have to do to store Sunstoppy is retract it and place it wherever you desire.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "feature-columns-1": {
           "type": "text_block",
           "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/S73cf6f1780504339b87543876447a710h.jpg",
+            "title": "Easy to use",
+            "text": "<p>With Sunstoppy's design, we have made it easy to never read a manual when using our product. Simply attach the brackets onto Sunstoppy and secure it to the desired spot on your windshield, protecting your car for as long as you wish.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "feature-columns-2": {
           "type": "text_block",
           "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3_large_cbed35a7-80d5-4318-a9c2-294b017f204d.webp",
+            "title": "Premium material",
+            "text": "<p>We built Sunstoppy™ to last longer than your vehicle. Sunstoppy™ features Aluminum Foil like material on the outer layer to reflect 99.5% of UV rays and a Photocatlyst material on the inside to stop heat.<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -37,19 +71,8 @@
         "feature-columns-2"
       ],
       "settings": {
-        "title": ""
-      }
-    },
-    "collection": {
-      "type": "collection",
-      "settings": {
-        "grid": 4
-      }
-    },
-    "hero-2": {
-      "type": "hero",
-      "settings": {
-        "text_size": "large"
+        "title": "",
+        "align_text": "left"
       }
     },
     "quotes": {
@@ -58,16 +81,22 @@
         "quotes-0": {
           "type": "quote",
           "settings": {
+            "quote": "<p>The Suction Cups are great and haven’t fallen off. The reflector is perfect and measuring it for my car was easy and easy to cut. It works great on my 2006 Nissan Frontier<\/p>",
+            "author": "Heather C."
           }
         },
         "quotes-1": {
           "type": "quote",
           "settings": {
+            "quote": "<p>I purchase this windshield cover for our 94 ambulance RV it holds the heat out and covers the window completely! Well worth the money, it’s sturdy and the suction cups hold up for long periods of time!<\/p>",
+            "author": "Allison"
           }
         },
         "quotes-2": {
           "type": "quote",
           "settings": {
+            "quote": "<p>I love how it just stays in the window out of the way when you’re not using it. Then just slide it across the windshield hook it onto the suction cup and your good to go. It’s that easy. Overall love it and would definitely recommend it to others<\/p>",
+            "author": "Philip Brown"
           }
         }
       },
@@ -86,16 +115,28 @@
         "image-bar-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/S84a6ba0b8b64430592baf42dff5e47a6D.webp",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
           }
         },
         "image-bar-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/S58e396f67c714c44bcab2ec0dde54c9bM.webp",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
           }
         },
         "image-bar-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/S02a900eb8acd4534806dda197f82a4c2f.webp",
+            "alignment": "center",
+            "link": "",
+            "cta_label": ""
           }
         }
       },
@@ -105,6 +146,7 @@
         "image-bar-2"
       ],
       "settings": {
+        "section_height": "medium"
       }
     }
   },
@@ -112,8 +154,6 @@
     "hero-1",
     "feature-row",
     "feature-columns",
-    "collection",
-    "hero-2",
     "quotes",
     "image-bar"
   ]
