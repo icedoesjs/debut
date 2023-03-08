@@ -20,7 +20,7 @@
     "feature-row": {
       "type": "feature-row",
       "settings": {
-        "image": "shopify:\/\/shop_images\/8df1103f198b08ab2fbace53e305be3d_1_large_d74740bb-a628-46d6-9153-4f78562bbbf5.webp",
+        "image": "shopify:\/\/shop_images\/a57859b174df4ae8af7fe2be9dc18fd8.webp",
         "layout": "left",
         "title": "Stop heat from destroying your vechicle",
         "text": "<p>Sunstoppy™ uses Heat-Shield technology blocking 99.5% of UV rays to protect your car against damage from high temperatures, which can destroy expensive interiors and pricey electronic systems in your vehicle.<\/p>",
@@ -35,7 +35,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Seb3d4e85107d42e99ebfa359269d37327.webp",
+            "image": "shopify:\/\/shop_images\/b850c354f6ad83da742dc8db5f14d528_480x480_f5bc8997-797e-46ce-9f9b-5be4f89be453.webp",
             "title": "Easy to store",
             "text": "<p>Sunstoppy's design makes it simple and easy to store anywhere in your vehicle. All you have to do to store Sunstoppy is retract it and place it wherever you desire.<\/p>",
             "button_label": "",
@@ -46,7 +46,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/S73cf6f1780504339b87543876447a710h.jpg",
+            "image": "shopify:\/\/shop_images\/H834e1a33dea641468d8536ef8c3044b7t.png",
             "title": "Easy to use",
             "text": "<p>With Sunstoppy's design, we have made it easy to never read a manual when using our product. Simply attach the brackets onto Sunstoppy and secure it to the desired spot on your windshield, protecting your car for as long as you wish.<\/p>",
             "button_label": "",
@@ -115,7 +115,7 @@
         "image-bar-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/S84a6ba0b8b64430592baf42dff5e47a6D.webp",
+            "image": "shopify:\/\/shop_images\/Sed2cf01639184c56988f30c4ea23fcc5w.webp",
             "alignment": "center",
             "link": "",
             "cta_label": ""
@@ -124,7 +124,7 @@
         "image-bar-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/S58e396f67c714c44bcab2ec0dde54c9bM.webp",
+            "image": "shopify:\/\/shop_images\/a738eab52718fe17b1eba3169a722536.webp",
             "alignment": "center",
             "link": "",
             "cta_label": ""
@@ -133,7 +133,7 @@
         "image-bar-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/S02a900eb8acd4534806dda197f82a4c2f.webp",
+            "image": "shopify:\/\/shop_images\/eee4529839d66e99d46ea6f32c7e54d0.webp",
             "alignment": "center",
             "link": "",
             "cta_label": ""
